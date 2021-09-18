@@ -1,0 +1,8 @@
+pandas
+pdfplumber
+pip
+pyPdf
+pyTelegramBotAPI
+python-telegram-bot
+requests
+telebot
